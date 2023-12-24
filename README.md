@@ -15,23 +15,39 @@ cd my-mini-game
 ```
 
 2. Install the client dependencies:
+
+```
    npm install
+```
 
 3. Start the client application:
+   ```
    npm run start
+   ```
 
+```
 The client-side application should now be running locally.
 
 ### Server Installation
 
 1. Navigate to the `game-server` folder:
-   cd game-server
+```
 
+cd game-server
+
+```
 2. Install the server dependencies:
-   npm install
+```
 
+npm install
+
+```
 3. Start the server:
-   npm run dev
+```
+
+npm run dev
+
+```
 
 The server should now be running and ready to serve the game.
 
@@ -45,3 +61,4 @@ Have fun and enjoy the navigation challenge!
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for details.
+```
