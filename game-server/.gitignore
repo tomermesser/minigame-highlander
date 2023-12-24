@@ -1,0 +1,20 @@
+# Node.js dependencies
+node_modules/
+
+# Build output directories
+build/
+dist/
+out/
+
+# Editor/IDE-specific files
+.vscode/
+.idea/
+*.log
+
+# Compiled JavaScript and CSS files
+*.js
+*.css
+*.map
+
+# Exclude specific files by name (e.g., config files)
+config.json
