@@ -25,28 +25,24 @@ cd my-mini-game
    npm run start
    ```
 
-```
+
 The client-side application should now be running locally.
 
 ### Server Installation
 
 1. Navigate to the `game-server` folder:
 ```
-
 cd game-server
-
 ```
+
 2. Install the server dependencies:
 ```
-
 npm install
-
 ```
+
 3. Start the server:
 ```
-
 npm run dev
-
 ```
 
 The server should now be running and ready to serve the game.
